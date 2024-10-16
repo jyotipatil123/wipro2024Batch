@@ -1,0 +1,60 @@
+Week 2 
+Day 5 discussion
+
+=================================================
+security and reliability 
+
+
+login : 
+  username : ...
+  password : ...
+
+   login 
+check whether it is u only not . 
+
+Roles : 
+1. Admin
+
+2. students
+3. tester
+4. developer
+5. HR
+6. Operations Mgr
+7. Project Manager
+8. Team Lead 
+
+Rights : 
+Permission 
+
+Authentication and authorization : Asp.net 
+
+IIS --internet information services server
+Local stystem.
+
+set rights, set roles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
